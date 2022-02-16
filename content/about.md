@@ -7,7 +7,7 @@ title: About Phil
 
 I can see the potential in Machine Learning.  I'm hoping to become a better engineer by applying what I can.
 
-I really enjoy using R and Python to solve real world issues that we have at work.  Sometimes is takes a while to iterate and iterate until you finally see the best approach to a problem.
+I really enjoy using R and Python to solve real world issues that we have at work.  Sometimes it takes a while to iterate until you finally see the best approach to a problem.
 I know and use matlab as well, but R is my favorite all around.  I have used powershell quite a bit as well.  It's amazing what you can do with a litte bit of knowledge of the basics.
 
 
