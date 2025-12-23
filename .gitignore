@@ -2,3 +2,15 @@
 .Rhistory
 .RData
 .Ruserdata
+
+# macOS
+.DS_Store
+
+# Hugo build output
+public/
+
+# Generated files from R Markdown / Quarto
+*_files/
+*.html
+!layouts/**/*.html
+!themes/**/*.html
