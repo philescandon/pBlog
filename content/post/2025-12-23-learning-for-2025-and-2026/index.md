@@ -24,7 +24,7 @@ This Christmas break I am concentrating on a few specific items:
 
     -   How can I do it?
 
-I'll use Claude research to figure this out.\
+I'll use Claude research to figure this out.
 
 -   YOLO Algorithm\
     I want to use this as part of learning about the Lattice OS from Anduril.
