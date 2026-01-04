@@ -10,16 +10,21 @@ tags:
   - anduril
 ---
 
-This christmas break I'll be doing some research and fun learning! Last Christmas, I remember finding out about Deepseek a few days before Christmas and I played with that for a few days non-stop. Then it was on to Chatgpt, Claude, a few other chinese models, gemini, and so on.\
+This christmas break I'll be doing some research and fun learning! Last Christmas, I remember finding out about Deepseek a few days before Christmas and I played with that for a few days non-stop. Then it was on to Chatgpt, Claude, a few other Chinese models like QWEN as well as googles Gemini, and so on.\
 \
 This Christmas break I am concentrating on a few specific items:
 
--   Anduril Systems\
-    What do they do?\
-    What do they sell?\
-    How do they do it?\
-    How can I do it?\
-    I'll use claude research to figure this out.\
+-   Anduril Systems
+
+    -   What do they do?
+
+    -   What do they sell?
+
+    -   How do they do it?
+
+    -   How can I do it?
+
+I'll use Claude research to figure this out.\
 
 -   YOLO Algorithm\
     I want to use this as part of learning about the Lattice OS from Anduril.
@@ -35,6 +40,10 @@ This Christmas break I am concentrating on a few specific items:
 
 -   
 
-For this coming year, I'm thinking not only of the things **I want**, what I want to **achieve**, but **what is required** of me and **what is expected** of me. What must to do to sustain my progress and arch this coming year.\
-What can AI teach me in order to sustain myself?\
-Good questions that I'll be wrestling with this year..\
+For this coming year, I'm thinking not only of the things **I want**, what I want to **achieve**, but **what is required** of me and **what is expected** of me.
+
+What must to do to sustain my progress and arc this coming year.
+
+What can AI teach me in order to sustain myself?
+
+Good questions that I'll be wrestling with this year..
